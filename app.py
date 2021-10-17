@@ -38,7 +38,6 @@ content = (
             ),
             dcc.Input(
                 id='input_text',
-                #className='dropdown',
                 type='text',
                 placeholder='Input text',
                 value='',
